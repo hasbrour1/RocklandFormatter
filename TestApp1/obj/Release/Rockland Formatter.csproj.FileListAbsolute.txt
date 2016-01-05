@@ -1,0 +1,9 @@
+c:\users\hasbrouckr\documents\visual studio 2013\Projects\TestApp1\TestApp1\obj\Release\TestApp1.Form1.resources
+c:\users\hasbrouckr\documents\visual studio 2013\Projects\TestApp1\TestApp1\obj\Release\TestApp1.Properties.Resources.resources
+c:\users\hasbrouckr\documents\visual studio 2013\Projects\TestApp1\TestApp1\obj\Release\Rockland Formatter.csproj.GenerateResource.Cache
+c:\users\hasbrouckr\documents\visual studio 2013\Projects\TestApp1\TestApp1\bin\Release\Rockland Formatter.exe.config
+c:\users\hasbrouckr\documents\visual studio 2013\Projects\TestApp1\TestApp1\bin\Release\Rockland Formatter.exe
+c:\users\hasbrouckr\documents\visual studio 2013\Projects\TestApp1\TestApp1\bin\Release\Rockland Formatter.pdb
+c:\users\hasbrouckr\documents\visual studio 2013\Projects\TestApp1\TestApp1\obj\Release\Rockland Formatter.exe
+c:\users\hasbrouckr\documents\visual studio 2013\Projects\TestApp1\TestApp1\obj\Release\Rockland Formatter.pdb
+c:\users\hasbrouckr\documents\visual studio 2013\Projects\TestApp1\TestApp1\obj\Release\Rockland Formatter.csprojResolveAssemblyReference.cache
