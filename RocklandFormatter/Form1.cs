@@ -16,7 +16,7 @@ using Excel = Microsoft.Office.Interop.Excel;
  * @version: 1.3
  */
 
-namespace TestApp1
+namespace RocklandFormatter
 {
     public partial class Form1 : Form
     {

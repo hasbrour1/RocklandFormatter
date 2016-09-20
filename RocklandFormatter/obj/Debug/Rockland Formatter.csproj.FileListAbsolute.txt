@@ -1,0 +1,9 @@
+C:\Users\hasbrouckr\Documents\Visual Studio 2013\Projects\RocklandFormatter\RocklandFormatter\bin\Debug\Rockland Formatter.exe.config
+C:\Users\hasbrouckr\Documents\Visual Studio 2013\Projects\RocklandFormatter\RocklandFormatter\bin\Debug\Rockland Formatter.exe
+C:\Users\hasbrouckr\Documents\Visual Studio 2013\Projects\RocklandFormatter\RocklandFormatter\bin\Debug\Rockland Formatter.pdb
+C:\Users\hasbrouckr\Documents\Visual Studio 2013\Projects\RocklandFormatter\RocklandFormatter\obj\Debug\Rockland Formatter.csprojResolveAssemblyReference.cache
+C:\Users\hasbrouckr\Documents\Visual Studio 2013\Projects\RocklandFormatter\RocklandFormatter\obj\Debug\TestApp1.Properties.Resources.resources
+C:\Users\hasbrouckr\Documents\Visual Studio 2013\Projects\RocklandFormatter\RocklandFormatter\obj\Debug\Rockland Formatter.csproj.GenerateResource.Cache
+C:\Users\hasbrouckr\Documents\Visual Studio 2013\Projects\RocklandFormatter\RocklandFormatter\obj\Debug\Rockland Formatter.exe
+C:\Users\hasbrouckr\Documents\Visual Studio 2013\Projects\RocklandFormatter\RocklandFormatter\obj\Debug\Rockland Formatter.pdb
+C:\Users\hasbrouckr\Documents\Visual Studio 2013\Projects\RocklandFormatter\RocklandFormatter\obj\Debug\RocklandFormatter.Form1.resources

@@ -1,4 +1,4 @@
-﻿namespace TestApp1
+﻿namespace RocklandFormatter
 {
     partial class Form1
     {
